@@ -1,6 +1,6 @@
 # Xinanjiang (XAJ) Single-Basin Reproducibility Package
 
-This repository provides a runnable single-basin example of the Xinanjiang (XAJ) hydrological model and its parameter calibration using a modified implementation of the SPOTPY optimization framework. The package is designed to support reproducibility of the modeling workflow used in the associated Earth’s Future manuscript, rather than to reproduce all basin-scale experiments reported in the paper.
+This repository provides a runnable single-basin example of the Xinanjiang (XAJ) hydrological model and its parameter calibration using a modified implementation of the SPOTPY optimization framework.
 
 ---
 
